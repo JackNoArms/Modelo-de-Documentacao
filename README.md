@@ -1,6 +1,6 @@
-# Modelo-de-Documentacao
-Modelo de documentação para publicação de projetos no github.
-
+~~~
+Modelo de documentação para publicação de projetos no github. Para edição veja no modo RAW.
+~~~
 <h1>Titulo ou Arte do Projeto</h1> 
 
 <p align="center">
